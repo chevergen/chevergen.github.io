@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chevergen.github.io/chevergen.chevergen
+Sitemap: https://chevergen.github.io/app/chevergen.chevergen
+Sitemap: https://chevergen.github.io/assets/chevergen.chevergen
+Sitemap: https://chevergen.github.io/css/chevergen.chevergen
+Sitemap: https://chevergen.github.io/includes/chevergen.chevergen
+Sitemap: https://chevergen.github.io/item/chevergen.chevergen
+Sitemap: https://chevergen.github.io/src/chevergen.chevergen
